@@ -24,17 +24,57 @@
           "id": "1-2",
           "name": "50 Abbreviations",
           "flashCards": [
-            {
-              "id": "1-2-1",
-              "question": "What does 'BP' stand for?",
-              "answer": "To be filled later"
-            },
-            {
-              "id": "1-2-2",
-              "question": "What does 'HR' stand for?",
-              "answer": "To be filled later"
-            }
-          ]
+			  { "id": "1", "question": "WBC", "answer": "White Blood Cells" },
+			  { "id": "2", "question": "ENT", "answer": "Ears Nose & Throat" },
+			  { "id": "3", "question": "AMA", "answer": "American Medical Association" },
+			  { "id": "4", "question": "BP", "answer": "Blood Pressure" },
+			  { "id": "5", "question": "dx", "answer": "Diagnosis" },
+			  { "id": "6", "question": "RBC", "answer": "Red Blood Cell" },
+			  { "id": "7", "question": "SOB", "answer": "Shortness of Breath" },
+			  { "id": "8", "question": "WHO", "answer": "World Health Organization" },
+			  { "id": "9", "question": "WNL", "answer": "Within Normal Limits" },
+			  { "id": "10", "question": "OD", "answer": "Overdose" },
+			  { "id": "11", "question": "CBC", "answer": "Complete Blood Count" },
+			  { "id": "12", "question": "sx", "answer": "Symptoms" },
+			  { "id": "13", "question": "bx", "answer": "Biopsy" },
+			  { "id": "14", "question": "DM", "answer": "Diabetes Mellitus" },
+			  { "id": "15", "question": "AKI", "answer": "Acute Kidney Injury" },
+			  { "id": "16", "question": "CAD", "answer": "Coronary Artery Disease" },
+			  { "id": "17", "question": "ASD", "answer": "Atrial Septal Defect" },
+			  { "id": "18", "question": "COPD", "answer": "Chronic Obstructive Pulmonary Disease" },
+			  { "id": "19", "question": "CVA", "answer": "Cerebrovascular Accident" },
+			  { "id": "20", "question": "MI", "answer": "Myocardial Infarction" },
+			  { "id": "21", "question": "OSA", "answer": "Obstructive Sleep Apnea" },
+			  { "id": "22", "question": "TSH", "answer": "Thyroid Stimulating Hormone" },
+			  { "id": "23", "question": "H&P", "answer": "History & Physical" },
+			  { "id": "24", "question": "ROS", "answer": "Review of Symptoms" },
+			  { "id": "25", "question": "ED", "answer": "Emergency Department" },
+			  { "id": "26", "question": "ICU", "answer": "Intensive Care Unit" },
+			  { "id": "27", "question": "CPT", "answer": "Current Procedural Terminology" },
+			  { "id": "28", "question": "ICD", "answer": "International Classification of Disease" },
+			  { "id": "29", "question": "OTC", "answer": "Over the Counter" },
+			  { "id": "30", "question": "DJD", "answer": "Degenerative Joint Disease" },
+			  { "id": "31", "question": "NSAID", "answer": "Non-Steroidal Anti-Inflammatory Drugs" },
+			  { "id": "32", "question": "CHF", "answer": "Congestive Heart Failure" },
+			  { "id": "33", "question": "TB", "answer": "Tuberculosis" },
+			  { "id": "34", "question": "IUD", "answer": "Intrauterine Device" },
+			  { "id": "35", "question": "LMP", "answer": "Last Menstrual Period" },
+			  { "id": "36", "question": "TBSA", "answer": "Total Body Surface Area" },
+			  { "id": "37", "question": "DVT", "answer": "Deep Vein Thrombosis" },
+			  { "id": "38", "question": "PE", "answer": "Pulmonary Embolism" },
+			  { "id": "39", "question": "TIA", "answer": "Transient Ischemic Attack" },
+			  { "id": "40", "question": "CABG", "answer": "Coronary Artery Bypass Graft" },
+			  { "id": "41", "question": "DDD", "answer": "Degenerative Disc Disease" },
+			  { "id": "42", "question": "fx", "answer": "Fracture" },
+			  { "id": "43", "question": "HTN", "answer": "Hypertension" },
+			  { "id": "44", "question": "I&D", "answer": "Incision and Drainage" },
+			  { "id": "45", "question": "IBS", "answer": "Irritable Bowel Syndrome" },
+			  { "id": "46", "question": "IM", "answer": "Intramuscular" },
+			  { "id": "47", "question": "PUD", "answer": "Peptic Ulcer Disease" },
+			  { "id": "48", "question": "RA", "answer": "Rheumatoid Arthritis" },
+			  { "id": "49", "question": "SQ", "answer": "Subcutaneous" },
+			  { "id": "50", "question": "UTI", "answer": "Urinary Tract Infection" }
+			]
         }
       ]
     }
