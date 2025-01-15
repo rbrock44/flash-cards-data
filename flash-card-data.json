@@ -168,7 +168,7 @@
         },
 		{
           "id": "1-3",
-          "name": "Terminology Prefixes (67)",
+          "name": "Terminology Prefixes",
           "flashCards": [
 			{ "id": "1", "question": "a-", "answer": "Without", "example": "Atypical" },
 			  { "id": "2", "question": "ab-", "answer": "Away from", "example": "Abduction" },
@@ -241,7 +241,7 @@
         },
 		{
           "id": "1-4",
-          "name": "Terminology Suffixes (93)",
+          "name": "Terminology Suffixes",
           "flashCards": [
 			{ "id": "1", "question": "-a", "answer": "Noun ending", "example": "Leukoderma" },
 				{ "id": "2", "question": "-ac", "answer": "Pertaining to", "example": "Cardiac" },
