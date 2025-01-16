@@ -337,7 +337,34 @@
 				{ "id": "92", "question": "-lepsy", "answer": "Seizure", "example": "Epilepsy" },
 				{ "id": "93", "question": "-mania", "answer": "Obsessive preoccupation", "example": "Pyromania" }
 			]
-        }
+        },
+		{
+		  "id": "1-5",
+          "name": "Word Terminals",
+		  "flashcards": [
+			  {"id": "1", "question": "-ic, -tic", "type": "adjective", "answer": "pertaining to; having to with", "example": "hepatic, genetic, hypnotic"},
+			  {"id": "2", "question": "-al", "type": "adjective", "answer": "pertaining to; having to with", "example": "dermal, bilateral"},
+			  {"id": "3", "question": "-ac", "type": "adjective", "answer": "pertaining to; having to with", "example": "cardiac, celiac"},
+			  {"id": "4", "question": "-ar", "type": "adjective", "answer": "pertaining to; having to with", "example": "ulnar, scapular, patellar"},
+			  {"id": "5", "question": "-ular", "type": "adjective", "answer": "pertaining to; having to with", "example": "valvular, radicular"},
+			  {"id": "6", "question": "-ary", "type": "adjective", "answer": "pertaining to; having to with", "example": "coronary, biliary"},
+			  {"id": "7", "question": "-ical", "type": "adjective", "answer": "pertaining to; having to with", "example": "surgical, pharmaceutical"},
+			  {"id": "8", "question": "-um", "type": "noun", "answer": "the thing being described by word element", "example": "endothelium, labium, cerebrum"},
+			  {"id": "9", "question": "-is", "type": "noun", "answer": "the thing being described by word element", "example": "dermis, pelvis"},
+			  {"id": "10", "question": "-us", "type": "noun", "answer": "the thing being described by word element", "example": "umbilicus, thrombus"},
+			  {"id": "11", "question": "-a (singular)", "type": "noun", "answer": "the thing being described by word element", "example": "bursa, gingiva, conjunctiva"},
+			  {"id": "12", "question": "-a (plural of -um or -on)", "type": "noun", "answer": "the thing being described by word element", "example": "labia, endothelia"},
+			  {"id": "13", "question": "-ae (plural of -a or -um)", "type": "noun", "answer": "the thing being described by word element", "example": "bursa, gingivae"},
+			  {"id": "14", "question": "-y", "type": "noun", "answer": "act of; result of; procedure", "example": "endoscopy, microscopy"},
+			  {"id": "15", "question": "-ia", "type": "noun", "answer": "disease; condition", "example": "amnesia, anosia, dysphagia"},
+			  {"id": "16", "question": "-ism", "type": "noun", "answer": "disease; condition", "example": "alcoholism, autism, albinism"},
+			  {"id": "17", "question": "-ac", "type": "noun", "answer": "person affected by", "example": "maniac, hemophiliac"},
+			  {"id": "18", "question": "-ate", "type": "verb", "answer": "to perform, bring about; put into action", "example": "terminate, exfoliate, fixate"},
+			  {"id": "19", "question": "-tion", "type": "noun", "answer": "process, action, condition", "example": "ablation, ligation, retraction"},
+			  {"id": "20", "question": "-esis", "type": "noun", "answer": "condition or process", "example": "amniocentesis, uresis, electrophoresis"},
+			  {"id": "21", "question": "-id", "type": "adjective", "answer": "to be; being", "example": "rigid, flaccid, fluid, parotid, putrid"}
+			]
+		}
       ]
     }
   ]
